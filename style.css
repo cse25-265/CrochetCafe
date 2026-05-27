@@ -144,20 +144,6 @@ input, textarea {
 }
 .about-content {
     padding: 30px;
-}
-
-.about-card {
-    background: rgba(255,255,255,0.9);
-    padding: 20px;
-    margin: 15px 0;
-    border-radius: 15px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    transition: 0.3s;
-}
-
-.about-card:hover {
-    transform: translateY(-5px);
-}
 
 .about-img {
  float: right;
@@ -167,4 +153,5 @@ input, textarea {
     margin: 10px 0 15px 20px;
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
 }
