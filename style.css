@@ -160,8 +160,11 @@ input, textarea {
 }
 
 .about-img {
-    width: 70%;
-    max-width: 200px;
-    border-radius: 30px;
-    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+ float: right;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    margin: 10px 0 15px 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
