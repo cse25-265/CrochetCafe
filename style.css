@@ -77,3 +77,26 @@ footer {
     margin-top: auto;
     width: 100%;
 }
+.image-fill {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.image-fill img {
+    width: 80%;
+    max-width: 700px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.page-bg {
+    background-image: url("scarf.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    padding: 40px;
+    background-color: rgba(255,255,255,0.85);
+    background-blend-mode: lighten;
+}
