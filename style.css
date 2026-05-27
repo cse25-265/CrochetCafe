@@ -142,16 +142,4 @@ input, textarea {
     border-radius: 10px;
     border: 1px solid #ccc;
 }
-.about-section {
-    padding: 30px;
 
-.about {
- float: right;
-    width: 180px;
-    height: 180px;
-    object-fit: cover;
-    margin: 10px 0 15px 20px;
-    border-radius: 15px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-}
-}
