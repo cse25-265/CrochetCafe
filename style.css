@@ -160,8 +160,8 @@ input, textarea {
 }
 
 .about-img {
-    width: 100%;
-    max-width: 320px;
+    width: 75%;
+    max-width: 150px;
     border-radius: 20px;
-    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
 }
